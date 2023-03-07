@@ -2,3 +2,4 @@
 ::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
 this is test git insert
 git is open source software by GPL
+Git has a mutable index called stage.
