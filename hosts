@@ -8,9 +8,6 @@ git 123456
 dev branch enter text test
 Creating a new branch is quick AND simple.
 okokok
-<<<<<<< HEAD
 254 协作测试
-=======
 多人协作冲突测试
 
->>>>>>> d7decbbb79e02f05d55922fd486dab8eecda4e96
